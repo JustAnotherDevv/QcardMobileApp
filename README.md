@@ -23,11 +23,13 @@ Enter directory
 Install dependencies
 
 ```yarn
+
 ```
 
 Start the expo app
 
 ```expo start
+
 ```
 
 ![](https://user-images.githubusercontent.com/61601037/122664889-5670b200-d1a4-11eb-9a50-887aef4db481.png)
