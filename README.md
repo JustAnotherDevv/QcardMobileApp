@@ -30,7 +30,7 @@ Start the expo app
 ```expo start
 ```
 
-![image](https://user-images.githubusercontent.com/61601037/122664889-5670b200-d1a4-11eb-9a50-887aef4db481.png | width=100)
+![](https://user-images.githubusercontent.com/61601037/122664889-5670b200-d1a4-11eb-9a50-887aef4db481.png | width=100)
 ![image](https://user-images.githubusercontent.com/61601037/122664918-8324c980-d1a4-11eb-8304-e7da19dd2699.png)
 ![image](https://user-images.githubusercontent.com/61601037/122664920-8750e700-d1a4-11eb-8750-e3d558ac008e.png)
 
