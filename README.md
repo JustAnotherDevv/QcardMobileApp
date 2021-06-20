@@ -6,7 +6,7 @@ Mockup of the app allows to:
 - Scan qr codes
 - check for payments from clients(as a seller)
 
-##How to run
+## How to run
 
 Clone the project
 
