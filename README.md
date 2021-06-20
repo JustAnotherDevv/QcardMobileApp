@@ -33,7 +33,7 @@ Start the expo app
 
 ```
 
-<img src="https://user-images.githubusercontent.com/61601037/122664889-5670b200-d1a4-11eb-9a50-887aef4db481.png" alt="alt text" width="400" height="600">
+<img src="https://user-images.githubusercontent.com/61601037/122664889-5670b200-d1a4-11eb-9a50-887aef4db481.png" alt="alt text" width="400" height="800">
 
 ![](https://user-images.githubusercontent.com/61601037/122664889-5670b200-d1a4-11eb-9a50-887aef4db481.png)
 ![image](https://user-images.githubusercontent.com/61601037/122664918-8324c980-d1a4-11eb-8304-e7da19dd2699.png)
