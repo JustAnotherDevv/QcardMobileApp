@@ -22,13 +22,14 @@ Enter directory
 
 Install dependencies
 
-```yarn
-
+```bash
+   yarn
 ```
 
 Start the expo app
 
-```expo start
+```bash
+   expo start
 
 ```
 
